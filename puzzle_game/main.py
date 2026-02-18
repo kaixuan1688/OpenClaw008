@@ -227,7 +227,7 @@ MCMXCIV + XLII + CDXX
             {
                 "id": 14,
                 "title": "算法追踪",
-                "description = """
+                "description": """
 def mystery(n):
     if n <= 1:
         return 1
